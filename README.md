@@ -8,7 +8,7 @@
 
 * #### Job 💼: Developer Advocate @ [Dabble Lab](https://dabble-lab-2021-site.webflow.io/)
 
-* #### Languages Spoken & Written: English, Hindi & Bangla
+* #### Languages Spoken & Written📝: English, Hindi & Bangla
 
 I'm Sohini and I'm dabbling emerging technologies that subject to Natural Language Processing( NLP ), Machine Learning and Artificial Intelligence. I spent the past 4 years of my life exploring: 
 
