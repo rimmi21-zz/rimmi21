@@ -17,7 +17,9 @@ I'm Sohini and I'm dabbling emerging technologies that subject to Natural Langua
 * Full Stack Applications - using MERN, STS, Vert.x
 * Google Actions and IBM Watson Chatbot 
 
-```
-[![TheSohini](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thesohini)
-```
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/TheSohini)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sohini-pattanayak-259b92117/)
+
+
 
