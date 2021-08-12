@@ -1,4 +1,4 @@
-[](https://raw.githubusercontent.com/rimmi21/rimmi21/main/github%20cover.png)
+![](https://raw.githubusercontent.com/rimmi21/rimmi21/main/github%20cover.png)
 
 * #### Name 👩🏼‍💻: Sohini Pattanayak
 
