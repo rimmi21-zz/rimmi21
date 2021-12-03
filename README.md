@@ -6,7 +6,7 @@
 
 * #### Location 📍: India 🇮🇳
 
-* #### Job 💼: Developer Advocate @ [Dabble Lab](https://dabble-lab-2021-site.webflow.io/)
+* #### Job 💼: Developer Advocate @ [Entando](https://www.entando.com/)
 
 * #### Languages Spoken & Written📝: English, Hindi & Bangla
 
